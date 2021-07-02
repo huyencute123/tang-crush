@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Cậu à!',
-    introDesc: '`Trái đất vốn lạ thường
+    introDesc: 'Trái đất vốn lạ thường
     Mà sao cậu cứ đi nhầm đường
     Lạc vào tim em lẻ loi
     Đằng sau chữ yêu đây là thương ',
@@ -16,4 +16,4 @@ const CONFIG = {
     messDesc: 'Cảm ơn cậu về nhuuwnngx điều đa làm cho tớ <3 .',
     btnAccept: 'hông có zì <3',
     messLink: '  . VD: https://m.me/nam.nodemy. ',
-}
+
