@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Trái đất vốn lạ thường
     Mà sao cậu cứ đi nhầm đường
     Lạc vào tim em lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Đằng sau chữ yêu đây là thương,
     btnIntro: 'hihi',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'Tớ biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
     messDesc: 'Cảm ơn cậu về nhuuwnngx điều đa làm cho tớ <3 .',
     btnAccept: 'hông có zì <3',
-    messLink: ' <3 . VD: https://m.me/nam.nodemy.,
+    messLink: '  . VD: https://m.me/nam.nodemy.,
 }
